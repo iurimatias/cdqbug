@@ -22,6 +22,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  cdq
+  cdq (= 0.1.9)
   rake
   ruby-xcdm
